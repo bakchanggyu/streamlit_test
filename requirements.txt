@@ -57,7 +57,6 @@ fonttools==4.49.0
 fqdn==1.5.1
 frozenlist==1.4.1
 fsspec==2024.10.0
-future @ file:///AppleInternal/Library/BuildRoots/bcce998f-ff34-11ef-9d34-f2a857e00a32/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
 gevent==24.11.1
 geventhttpclient==2.3.3
 greenlet==3.1.1
@@ -110,7 +109,6 @@ lazy_loader==0.4
 libusb-package==1.0.26.2
 libusb1==1.9.3
 locust==2.33.2
-macholib @ file:///AppleInternal/Library/BuildRoots/bcce998f-ff34-11ef-9d34-f2a857e00a32/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
 MarkupSafe==2.1.5
 marshmallow==3.21.3
 matplotlib==3.8.3
